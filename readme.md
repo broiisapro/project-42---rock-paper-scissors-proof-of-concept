@@ -64,3 +64,5 @@ To exit the program, press the `q` key.
 
 - The accuracy of gesture recognition depends on the quality of the webcam and lighting conditions.
 - The gesture classification works by analyzing the relative vertical positions of finger landmarks, and it might need adjustments for varying hand positions or sizes.
+
+readme made with the help of AI
